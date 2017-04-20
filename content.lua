@@ -368,7 +368,7 @@ zone.Tomb_of_Sargeras = 1147			-- Tomb of Sargeras
 	if (FIZ_IsAlliance) then
 	-- Aliance Cities
 	-- Darnassus 69
-		FIZ_AddQuest(69, 4, 8, 1, 250, "nil", FIZ_LIMIT_TYPE_Cook)
+		FIZ_AddQuest(69, 4, 8, 1, 250, "nil", FIZ_LIMIT_TYPE_Cook
 		FIZ_AddQuest(69, 4, 8, 2, 65, "nil", FIZ_LIMIT_TYPE_Cook)
 		FIZ_AddQuest(69, 4, 8, 3, 250, "nil", FIZ_LIMIT_TYPE_Fish)
 		FIZ_AddQuest(69, 4, 8, 4, 65, "nil", FIZ_LIMIT_TYPE_Fish)
